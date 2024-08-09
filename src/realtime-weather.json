@@ -8,7 +8,8 @@
     "avatar": "🌈",
     "tags": ["weather", "realtime"],
     "title": "Realtime Weather",
-    "description": "Get realtime weather information"
+    "description": "Get realtime weather information",
+    "category": "tools"
   },
   "schemaVersion": 1
 }

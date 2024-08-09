@@ -8,7 +8,8 @@
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/guru-walk/logo.webp",
     "description": "The best free tour guides in the world are here.",
     "tags": ["travel", "guides"],
-    "title": "GuruWalk"
+    "title": "GuruWalk",
+    "category": "lifestyle"
   },
   "schemaVersion": 1
 }

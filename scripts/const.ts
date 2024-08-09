@@ -27,4 +27,15 @@ export const readmeSplit = '<!-- AWESOME PLUGINS -->';
 
 export const SYNC_URL = 'https://openai-collections.chat-plugin.lobehub.com';
 
+export const category = [
+  'gaming-entertainment',
+  'lifestyle',
+  'media-generate',
+  'science-education',
+  'social',
+  'stocks-finance',
+  'tools',
+  'web-search',
+];
+
 export const config = require('../.i18nrc.js');

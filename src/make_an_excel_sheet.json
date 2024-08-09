@@ -8,7 +8,8 @@
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/make-a-sheet/logo.webp",
     "description": "Generate a csv file that can directly be imported into Google Sheets or MS Excel.",
     "tags": ["csv", "excel", "sheet"],
-    "title": "Make A Sheet"
+    "title": "Make A Sheet",
+    "category": "tools"
   },
   "schemaVersion": 1
 }

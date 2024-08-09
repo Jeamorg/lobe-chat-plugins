@@ -8,7 +8,8 @@
     "avatar": "https://steam.chat-plugin.lobehub.com/logo.webp",
     "tags": ["steam", "game"],
     "title": "Steam",
-    "description": "Obtain game information and user reviews from Steam."
+    "description": "Obtain game information and user reviews from Steam.",
+    "category": "gaming-entertainment"
   },
   "schemaVersion": 1
 }

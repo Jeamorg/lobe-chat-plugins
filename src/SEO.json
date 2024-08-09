@@ -8,7 +8,8 @@
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo/logo.webp",
     "description": "Enter any URL and keyword and get an On-Page SEO analysis & insights!",
     "tags": ["seo"],
-    "title": "SEO"
+    "title": "SEO",
+    "category": "tools"
   },
   "schemaVersion": 1
 }

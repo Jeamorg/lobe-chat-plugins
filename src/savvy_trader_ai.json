@@ -8,7 +8,8 @@
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/logo.webp",
     "description": "Realtime stock, crypto and other investment data.",
     "tags": ["stock", "analyze"],
-    "title": "Savvy Trader AI"
+    "title": "Savvy Trader AI",
+    "category": "stocks-finance"
   },
   "schemaVersion": 1
 }

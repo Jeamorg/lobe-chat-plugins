@@ -8,7 +8,8 @@
     "avatar": "🕸",
     "tags": ["web", "content-crawler"],
     "title": "Website Crawler",
-    "description": "Extract content from web links"
+    "description": "Extract content from web links",
+    "category": "tools"
   },
   "schemaVersion": 1
 }

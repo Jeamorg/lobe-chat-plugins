@@ -8,7 +8,8 @@
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/astrodaily/logo.webp",
     "description": "Search and discover NASA images.",
     "tags": ["nasa", "search", "image"],
-    "title": "Astrodaily"
+    "title": "Astrodaily",
+    "category": "web-search"
   },
   "schemaVersion": 1
 }

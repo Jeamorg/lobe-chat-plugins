@@ -8,7 +8,8 @@
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/github-stats/logo.webp",
     "description": "Dynamically generate and analyze stats and history for OSS repos and developers.",
     "tags": ["github", "oss"],
-    "title": "Git OSS Stats"
+    "title": "Git OSS Stats",
+    "category": "tools"
   },
   "schemaVersion": 1
 }

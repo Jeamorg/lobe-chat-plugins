@@ -8,7 +8,8 @@
     "avatar": "🧠",
     "tags": ["mindmap"],
     "title": "Mindmap",
-    "description": "A mindmap generation assistant"
+    "description": "A mindmap generation assistant",
+    "category": "tools"
   },
   "schemaVersion": 1
 }

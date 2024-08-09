@@ -8,7 +8,8 @@
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/logo.webp",
     "description": "Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.",
     "tags": ["travel", "hotel", "search"],
-    "title": "Travelmyth"
+    "title": "Travelmyth",
+    "category": "lifestyle"
   },
   "schemaVersion": 1
 }
